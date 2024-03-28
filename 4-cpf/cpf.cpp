@@ -11,7 +11,7 @@ int main() {
     int digito[11];
 
     // usuario insere cpf
-    cout << "insira cpf: ";
+    cout << "insira cpf [somente numeros]: ";
     cin >> num_cpf;
 
     long long cpf_separado = num_cpf;
@@ -23,16 +23,17 @@ int main() {
     }
 
     if (primeira_verificacao(num_cpf) != digito[9]) {
-        cout << "CPF INVALIDO!";
+        cout << "erro: cpf invalido";
         return 1;
     }
 
     if (segunda_verificacao(num_cpf) != digito[10]) {
-        cout << "CPF INVALIDO!";
+        cout << "erro: cpf invalido";
         return 2;
     }
 
-    cout << "CPF VALIDO";
+    cout << "cpf valido";
+    return 0;
 }
 
 int primeira_verificacao(long long cpf) {
