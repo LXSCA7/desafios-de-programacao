@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Pichau/Documents/__faculdade/-desafios-de-programacao/CPF",
-      "program": "c:/Users/Pichau/Documents/__faculdade/-desafios-de-programacao/CPF/build/Debug/outDebug",
+      "cwd": "c:/Users/Pichau/Documents/__faculdade/-desafios-de-programacao/4-cpf",
+      "program": "c:/Users/Pichau/Documents/__faculdade/-desafios-de-programacao/4-cpf/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

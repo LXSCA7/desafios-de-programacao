@@ -22,14 +22,9 @@ int main() {
         cpf_separado /= 10;
     }
 
-    if (primeira_verificacao(num_cpf) != digito[9]) {
+    if (primeira_verificacao(num_cpf) != digito[9] || segunda_verificacao(num_cpf) != digito[10]) {
         cout << "erro: cpf invalido";
         return 1;
-    }
-
-    if (segunda_verificacao(num_cpf) != digito[10]) {
-        cout << "erro: cpf invalido";
-        return 2;
     }
 
     cout << "cpf valido";
