@@ -18,4 +18,6 @@ Criei esse repositório para manter todos os desafios que fui achando pela inter
 
 5. palindromo;
 
-6. notas.
+6. notas;
+
+7. buble sort.
