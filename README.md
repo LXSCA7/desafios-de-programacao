@@ -20,4 +20,4 @@ Criei esse repositório para manter todos os desafios que fui achando pela inter
 
 6. notas;
 
-7. buble sort.
+7. bubble sort.
