@@ -27,6 +27,10 @@ GCC:
 ```
 gcc primos.c -o primos
 ```
+OU
+```
+g++ primos.c -o primos
+```
 ```
 ./primos [NUMERO]
 ```
@@ -34,6 +38,10 @@ gcc primos.c -o primos
 Clang:
 ```
 clang primos.c -o primos
+```
+OU
+```
+clang++ primos.c -o primos
 ```
 ```
 ./primos [NUMERO]
