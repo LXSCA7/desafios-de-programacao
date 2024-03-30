@@ -7,7 +7,7 @@ void bubble_sort(int lista[], int tamanho);
 
 int main() {    
     const int TAMANHO_NUMEROS = 30;
-    const int MAX_NUMEROS = 100;
+    const int MAX_NUMEROS = 300;
 
     int lista[30];
 
