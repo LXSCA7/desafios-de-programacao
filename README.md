@@ -14,6 +14,8 @@ Criei esse repositório para manter todos os desafios que fui achando pela inter
 
 3. [password](https://github.com/backend-br/desafios/blob/master/secure-password/PROBLEM.md);
 
-4. verificador de CPF
+4. verificador de CPF;
 
-5. palindromo
+5. palindromo;
+
+6. notas.
